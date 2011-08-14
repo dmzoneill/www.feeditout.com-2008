@@ -1,0 +1,30 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dvd SYSTEM "movie.dtd">
+<dvd runtime="154" viewing="15" imdb="http://www.imdb.com/title/tt0230600/" language="ch">
+    <title>The Others</title>
+    <picture>theOthers.jpg</picture>
+    <director>
+        <firstname>Alejandro</firstname>
+        <surname>Amenábar</surname>
+    </director>
+    <actors>
+        <firstname>Nicole</firstname>
+        <surname>Kidman</surname>
+    </actors>
+    <actors>
+        <firstname>Fionnula</firstname>
+        <surname>Flanagan</surname>
+    </actors>
+    <actors>
+        <firstname>Christopher</firstname>
+        <surname>Eccleston</surname>
+    </actors>
+    <production>Sony entertament</production>
+    <producers>
+        <firstname>Keith</firstname>
+        <surname>Allen</surname>
+    </producers>
+    <plot>A woman who lives in a darkened old house with her two photosensitive children becomes convinced that her family home is haunted.</plot>
+    <copyright>Alejandro Amenábar</copyright>
+    <released>2001</released>
+</dvd>

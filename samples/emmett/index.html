@@ -1,0 +1,33 @@
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel='StyleSheet' href="myStyle.css" type="text/css"/>
+        <title>Dvd Catalog</title>
+        <script type="text/javascript" src="dvd.js"></script>
+    </head>
+    <body onload="start();">
+        <center>
+        <table width="700" cellpadding="10">
+            <tr>
+                <td colspan="2">
+                    <form name="dvdForm">
+                        <select id="dvdMenu" name="mySelect" onchange="loadDVdContent()">
+                            <option value="0">Select a DVD</option>
+                        </select>
+                    </form>                    
+                    <br/>
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+                <td valign="top"><img id="filmImage" src='pictures/Sabrina.jpg' alt='dvd cover' /></td>
+                <td><div id="mainContent"></div></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><div id="extraContent"></div></td>
+            </tr>
+        </table>
+        </center>
+    </body>
+</html>

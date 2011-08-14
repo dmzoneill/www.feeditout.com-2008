@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE film SYSTEM "film.dtd">
+<film>
+    <title boxSet = "No" id="DVD2" year="2006" time = "194" >Titanic</title>
+    <DVDCoverDetails width="10" height="10" DVDCoverDesign="Titanic.jpg"/>
+    <description>Titanic is a 1997 American romantic drama film directed, written, co-produced and co-edited by James Cameron about the sinking of the RMS Titanic. It stars Leonardo DiCaprio as Jack Dawson and Kate Winslet as Rose DeWitt Bukater, two members of different social classes who fall in love aboard the ill-fated maiden voyage of the ship. The main characters and the central love story are fictional, but some characters (such as members of the ship's passengers and crew) are based on historical figures. Gloria Stuart plays the elderly Rose, who narrates the film in a modern day framing device.</description>
+    <director>
+        <firstname>James</firstname>
+        <surname>Cameron</surname>
+    </director>
+    <actress>
+        <firstname>Kate</firstname>
+        <surname>Winslet</surname>
+    </actress>
+    <character>Rose DeWitt Bukater</character>
+    <actress>
+        <firstname>Gloria</firstname>
+        <surname>Stuart</surname>
+    </actress>
+    <character>elderly Rose</character>
+    <actor>
+        <firstname>Leonardo</firstname>
+        <surname>DiCaprio</surname>
+    </actor>
+    <character>Jack Dawson</character>
+    <award>Oscar Best Picture</award>
+    <award>Golden Globe Best Motion Picture</award>
+</film>

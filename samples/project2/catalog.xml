@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<catalog>
+    <dvdEntry>dvd1.xml</dvdEntry>
+    <dvdEntry>dvd2.xml</dvdEntry>
+    <dvdEntry>dvd3.xml</dvdEntry>
+    <dvdEntry>dvd4.xml</dvdEntry>    
+</catalog>

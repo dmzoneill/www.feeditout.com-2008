@@ -1,0 +1,112 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dvd SYSTEM "dvd.dtd">
+<?xml-stylesheet href="reset.css" type="text/css"?>
+<?xml-stylesheet href="dvd.css" type="text/css"?>
+<dvd genre="comedy" runtime="168" viewing="12">    
+    <title>Employee of the month</title>    
+    <presenter>
+        <companyname>Lionsgate</companyname>
+    </presenter>
+    <production>
+        <companyname>Tapestry Films</companyname>
+    </production>
+    <released>
+        <date>
+            <year>2006</year>
+        </date>
+    </released>
+    <producers>
+        <person>
+            <firstname>Joe</firstname>
+            <surname>Simpson</surname>
+        </person>
+        <person>
+            <firstname>Barry</firstname>
+            <surname>Katz</surname>
+        </person>
+        <person>
+            <firstname>Brian</firstname>
+            <surname>Volk-Weiss</surname>
+        </person>       
+    </producers>
+    <coProducers>
+        <person>
+            <firstname>Andrew</firstname>
+            <surname>Paney</surname>
+        </person>
+        <person>
+            <firstname>Rebeccas</firstname>
+            <surname>Mangeiri</surname>
+        </person>        
+    </coProducers>
+    <musicProducers>
+        <person>
+            <firstname>John</firstname>
+            <surname>Shwartz</surname>
+        </person>
+    </musicProducers>
+    <costumeDesigners>
+        <person>
+            <firstname>Norah</firstname>
+            <surname>Power</surname>
+        </person>
+    </costumeDesigners>
+    <directors>
+        <person>
+            <firstname>Anette</firstname>
+            <surname>Sweeney</surname>
+        </person>
+    </directors>
+    <actors>
+        <person>
+            <firstname>Dane</firstname>
+            <surname>Cook</surname>
+        </person>
+        <person>
+            <firstname>Jessica</firstname>
+            <surname>Simpson</surname>
+        </person>
+        <person>
+            <firstname>Dax</firstname>
+            <surname>Shepard</surname>
+        </person>
+        <person>
+            <firstname>Andy</firstname>
+            <surname>Dick</surname>
+        </person>       
+        <person>
+            <firstname>Tim</firstname>
+            <surname>Bagley</surname>
+        </person>        
+    </actors>
+    <plot>
+        At Super Club, a large warehouse store, the employees strive to obtain the &quot;Employee of the Month&quot;
+        award with the benefits of having their picture featured on the wall of fame in the staff lounge. 
+        Zack Bradley, a box boy, and Vince Downey, a cashier, are two competitive Super Club employees. 
+        Vince has become head cashier of the store and winner of seventeen consecutive &quot;Employee of the Month&quot; awards. 
+        Zack, on the other hand, is a slacker but is popular with his colleagues. &#10;&#10;         
+        
+        Zack has not won any &quot;Employee of the Month&quot; awards and has no desire to except when Amy, 
+        a new cashier who only dates &quot;Employee of the Month&quot; winners, transfers to the store. 
+        Zack and Vince compete to get Amy's attention through competition and courtship. 
+        Vince attempts to impress Amy with skills as a cashier and his seventeen &quot;Employee of the Month&quot; awards, 
+        while Zack attempts to use several methods of charm and comedy to win her affection. After realizing that 
+        Amy is falling for Vince, Zack believes his only chance to get her is to win Super Club's next &quot;Employee of the Month&quot; award.
+    </plot>    
+    <copyright>
+        <date>
+            <year>2006</year>
+        </date>        
+        <companyname>Lions Gate Films Inc</companyname>
+    </copyright>
+    <other>
+        <imdblink>http://www.imdb.com/title/tt0424993/</imdblink>
+        <picture>dvd1.png</picture>
+        <price></price>
+    </other>
+</dvd>
+    
+    
+    
+    
+    

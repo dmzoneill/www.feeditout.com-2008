@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT dvd
+(
+    title, 
+    presenter, 
+    production, 
+    released, 
+    producers,
+    coProducers,
+    musicProducers, 
+    costumeDesigners,
+    directors,
+    actors,
+    plot,
+    copyright,
+    other
+)>
+<!-- begin description of book and child elements -->
+<!ATTLIST dvd genre CDATA #REQUIRED>
+<!ATTLIST dvd runtime CDATA #REQUIRED>
+<!ATTLIST dvd lang CDATA "en">
+<!ATTLIST dvd viewing ( PG | 12 | 15 | 18 ) #REQUIRED>
+
+<!ELEMENT title ( #PCDATA )>
+<!ELEMENT presenter (companyname)+>
+<!ELEMENT production (companyname)+>
+<!ELEMENT released (date)>
+<!ELEMENT producers (person)+>
+<!ELEMENT coProducers (person)+>
+<!ELEMENT musicProducers (person)+>
+<!ELEMENT costumeDesigners (person)+>
+<!ELEMENT directors (person)+>
+
+<!ELEMENT actors (person)+>
+<!ELEMENT plot (#PCDATA) >
+
+<!ELEMENT copyright ( date*, ( companyname | person )* )>
+<!ELEMENT date ( day?, month?, year )>
+<!ELEMENT day ( #PCDATA )>
+<!ELEMENT month ( #PCDATA )>
+<!ELEMENT year ( #PCDATA )>
+
+<!ELEMENT companyname ( #PCDATA )>
+<!ATTLIST companyname lang CDATA "en">
+<!ELEMENT person ( firstname, initial?, surname )>
+<!ATTLIST person lang CDATA "en">
+<!ATTLIST person sex CDATA #IMPLIED>
+<!ELEMENT firstname ( #PCDATA )>
+<!ELEMENT initial ( #PCDATA )>
+<!ELEMENT surname ( #PCDATA )>
+
+<!ELEMENT other ( imdblink*, picture?, price? )>
+<!ELEMENT imdblink ( #PCDATA )>
+<!ELEMENT picture ( #PCDATA )>
+<!ELEMENT price ( #PCDATA )>
+

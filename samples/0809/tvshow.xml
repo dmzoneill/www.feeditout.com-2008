@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tvshow year="1999" rating="PG" season="1">
+    <title>Futurama</title>
+    <genrelist>
+       <genre name="Animation"/>
+       <genre name="SciFi"/>
+       <genre name="Comedy"/>
+    </genrelist>
+    <creator>
+       <name>Matt Groening</name>
+    </creator>
+    <cast>
+       <castmember role="Philip J. Fry">
+           <name>Billy West</name>
+       </castmember>
+       <castmember role="Turanga Leela">
+           <name>Katey Sagal</name>
+       </castmember>
+    </cast>
+</tvshow>
+

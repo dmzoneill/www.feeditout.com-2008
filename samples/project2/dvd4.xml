@@ -1,0 +1,92 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dvd SYSTEM "dvd.dtd">
+<?xml-stylesheet href="reset.css" type="text/css"?>
+<?xml-stylesheet href="book.css" type="text/css"?>
+<dvd genre="comedy" runtime="168" viewing="12">    
+    <title>Knocked Up</title>    
+    <presenter>
+        <companyname>Universal Pictures</companyname>
+    </presenter>
+    <production>
+        <companyname>Apatow</companyname>
+    </production>
+    <released>
+        <date>
+            <year>2007</year>
+        </date>
+    </released>
+    <producers>
+        <person>
+            <firstname>Jonathon</firstname>
+            <surname>Karp</surname>
+        </person>
+    </producers>
+    <coProducers>
+        <person>
+            <firstname>Calyton</firstname>
+            <surname>Townsend</surname>
+        </person>
+    </coProducers>
+    <musicProducers>
+        <person>
+            <firstname>Seth</firstname>
+            <surname>Rogen</surname>
+        </person>
+    </musicProducers>
+    <costumeDesigners>
+        <person>
+            <firstname>Eric</firstname>
+            <surname>Edwards</surname>
+        </person>
+    </costumeDesigners>
+    <directors>
+        <person>
+            <firstname>Jefferson</firstname>
+            <surname>Sage</surname>
+        </person>
+    </directors>
+    <actors>
+        <person>
+            <firstname>Seth</firstname>
+            <surname>Rogen</surname>
+        </person>
+        <person>
+            <firstname>Katherine</firstname>
+            <surname>Heigl</surname>
+        </person>
+        <person>
+            <firstname>Raul</firstname>
+            <surname>Rudd</surname>
+        </person>
+        <person>
+            <firstname>Leslie</firstname>
+            <surname>Mann</surname>
+        </person>       
+    </actors>
+    <plot>
+        When Alison Scott is promoted in E! Television, she goes to a night-club to celebrate with her 
+        older married sister Debbie. Alison meets the pothead reckless Ben Stone and while having a small 
+        talk with Ben, Debbie's husband Pete calls her to tell that their daughter has chicken pots. 
+        Debbie leaves the place but Allison stays with Ben, drinking and dancing along all night; 
+        completely wasted, they end up having a one night stand. Ben does not use condom and eight 
+        weeks later, Allison discovers that she is pregnant. She calls Ben and they decide to try to 
+        stay together and have the baby. However, Ben needs to grow-up first to raise a family of his own. 
+        Written by Claudio Carvalho, Rio de Janeiro, Brazil
+        
+        A one night stand turns into the unexpected for Ben, when Alison announces to him that she is 
+        now pregnant with his child. Ben decides that the best thing to do is to get his life sorted 
+        so he can care for Alison and his new child, which isn't an easy job for him.
+    </plot>
+    
+    <copyright>
+        <date>
+            <year>2007</year>
+        </date>
+        <companyname>Universal Studios</companyname>        
+    </copyright>
+    <other>
+        <imdblink>http://www.imdb.com/title/tt0478311/</imdblink>
+        <picture>dvd4.png</picture>
+        <price></price>
+    </other>
+</dvd>

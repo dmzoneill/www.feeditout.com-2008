@@ -1,0 +1,30 @@
+body
+{
+font-family:sans-serif;
+color:#222222;
+font-size:12pt;
+}
+h1
+{
+font-size:16pt;
+color:maroon;
+font-family:arial, helvetica, sans-serif;
+text-align:left;
+}
+h3
+{
+font-size:14pt;
+color:blue;
+font-family:arial, helvetica, sans-serif;
+text-align:left;
+}
+a
+{
+text-decoration:none;
+text-align:left;
+}
+p
+{
+font-size:10pt;
+text-align:left;
+}

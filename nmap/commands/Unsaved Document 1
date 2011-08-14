@@ -1,0 +1,7 @@
+psexec \\remotecomputername netsh firewall set service remoteadmin enable
+HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server fDenyTSConnection 0
+
+psexec \\machinename reg add "hklm\system\currentcontrolset\control\terminal server" /f /v fDenyTSConnections /t REG_DWORD /d 0
+psexec \\remotecomputername netsh firewall set service remoteadmin enable
+psexec \\remotecomputername netsh firewall set service remotedesktop enable

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE film SYSTEM "film.dtd">
+<film boxSet = "No" genre="&R;"  id="DVD1" Year = "1995" time = "122">
+    <title>Sabrina</title>
+    <DVDCoverDetails width="10" height="10" DVDCoverDesign=".jpg"/>
+    <director>
+        <firstname>Sydney</firstname>
+        <surname>Pollack</surname>
+    </director>
+    <actress>
+        <firstname>Julia</firstname>
+        <surname>Ormond</surname>
+    </actress>
+    <character>Sabrina</character>
+    <actor>
+        <firstname>Harrison</firstname>
+        <surname>Ford</surname>
+    </actor>
+    <character>Linus</character>
+    <actor>
+        <firstname>Greg</firstname>
+        <surname>Kinnear</surname>
+    </actor>
+    <character>Larrabee</character>
+</film>

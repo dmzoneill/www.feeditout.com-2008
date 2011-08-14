@@ -1,0 +1,105 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dvd SYSTEM "dvd.dtd">
+<?xml-stylesheet href="reset.css" type="text/css"?>
+<?xml-stylesheet href="dvd.css" type="text/css"?>
+<dvd genre="comedy" runtime="113" viewing="18">    
+    <title>Superbad</title>    
+    <presenter>
+        <companyname>Columbia Pictures</companyname>
+    </presenter>
+    <production>
+        <companyname>Apatow Company</companyname>
+    </production>
+    <released>
+        <date>
+            <year>2007</year>
+        </date>
+    </released>
+    <producers>
+        <person>
+            <firstname>Jonah</firstname>
+            <surname>Hill</surname>
+        </person>
+        <person>
+            <firstname>Michael</firstname>
+            <surname>Cera</surname>
+        </person>
+        <person>
+            <firstname>Seth</firstname>
+            <surname>Rogen</surname>
+        </person>
+        <person>
+            <firstname>Bill Hader</firstname>
+            <surname>Rogen</surname>
+        </person>
+    </producers>
+    <coProducers>
+        <person>
+            <firstname>Dara</firstname>
+            <surname>Weintrab</surname>
+        </person>
+    </coProducers>
+    <musicProducers>
+        <person>
+            <firstname>Lyle</firstname>
+            <surname>Workman</surname>
+        </person>
+    </musicProducers>
+    <costumeDesigners>
+        <person>
+            <firstname>Debra</firstname>
+            <surname>McGuire</surname>
+        </person>
+    </costumeDesigners>
+    <directors>
+        <person>
+            <firstname>Greg</firstname>
+            <surname>Motolla</surname>
+        </person>
+    </directors>
+    <actors>
+        <person>
+            <firstname>Jonah</firstname>
+            <surname>Hill</surname>
+        </person>
+        <person>
+            <firstname>Michael</firstname>
+            <surname>Cera</surname>
+        </person>
+        <person>
+            <firstname>Christopher</firstname>
+            <surname>Mintz-Plasse</surname>
+        </person>
+        <person>
+            <firstname>Bill</firstname>
+            <surname>Hader</surname>
+        </person>       
+    </actors>
+    <plot>
+        Seth and Evan are best friends, inseparable, navigating the last weeks of high school. 
+        Usually shunned by the popular kids, Seth and Evan luck into an invitation to a party, 
+        and spend a long day, with the help of their nerdy friend Fogell, trying to score enough alcohol
+        to lubricate the party and inebriate two girls, Jules and Becca, so they can kick-start their 
+        sex lives and go off to college with a summer full of experience and new skills. 
+        Their quest is complicated by Fogell's falling in with two inept cops who both slow and assist the plan.
+        If they do get the liquor to the party, what then? Is sex the only rite of passage at hand? Written by {jhailey@hotmail.com}
+        
+        Seth, Evan and Fogell are three teenage guys who love to drink and desperately wish to get laid. 
+        When a girl that Seth really likes, asks him to get the drink for her party, 
+        he sees this as a perfect opportunity to make her his girlfriend. 
+        The trio plan out how to get the alcohol, even including Fogell's new fake ID, but things won't
+        got smoothly for the trio. Seth and Evan become separated from Fogell (now called McLovin) and
+        they still haven't got the alcohol for the party that night.
+    </plot>    
+    <copyright>
+        <date>
+            <year>2007</year>
+        </date>        
+        <companyname>Sony Pictures</companyname>
+    </copyright>
+    <other>
+        <imdblink>http://www.imdb.com/title/tt0829482/</imdblink>
+        <picture>dvd2.png</picture>
+        <price></price>
+    </other>
+</dvd>

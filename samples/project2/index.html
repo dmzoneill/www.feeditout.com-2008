@@ -1,0 +1,80 @@
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+        <link rel="StyleSheet" href="reset.css" type="text/css" />
+        <link rel="StyleSheet" href="fine.css" type="text/css" />
+        <script type="text/javascript" src="jquery.js"></script>          
+        <script type="text/javascript" src="interface.js"></script>
+        
+        <!--[if lt IE 8]>
+            <style type="text/css">
+            #xouter{display:block}
+            #xcontainer{top:50%;display:block}
+            #xinner{top:-50%;position:relative}
+            </style>
+        <![endif]-->
+        
+        <!--[if IE 7]>
+            <style type="text/css">
+            #xouter{
+            position:relative;
+            overflow:hidden;
+            }
+            </style>
+        <![endif]-->        
+    </head>
+    
+    <body>         
+        <div id="outer">
+            <div id="container">               
+                <div id="inner">   
+                    <select id="dvdMenu">
+                        <option value="0">Select a DVD</option>                    
+                    </select>
+                    <img id="collection" src='pics/collection.png' />
+                    <br />                        
+                    <br />
+                    <table id="dvdMain">
+                        <tr>
+                            <td id="dvdImage" rowspan="14"></td>
+                            <td id="dvdTitle"></td>
+                        </tr>                        
+                        <tr>
+                            <td id="dvdPresenter"></td>
+                        </tr>
+                        <tr>
+                            <td id="dvdProduction"></td>
+                        </tr>  
+                        <tr>
+                            <td id="dvdDirectors"></td>
+                        </tr>                          
+                        <tr>
+                            <td id="dvdActors"></td>
+                        </tr>       
+                        <tr>
+                            <td><div id="dvdDescriptionShort"></div></td>
+                        </tr> 
+                        <tr>
+                            <td><div id="dvdDescription"></div></td>
+                        </tr> 
+                        <tr>
+                            <td id="dvdExtra">
+                                <br /> <br />
+                                <a id="moreinfo" href="#">More Info</a>
+                                <div id="dvdProducers"></div>
+                                <div id="dvdCoProducers"></div>
+                                <div id="dvdMusicProducers"></div>
+                                <div id="dvdCostumeDesigners"></div>
+                                <div id="dvdCopyright"></div>
+                                <div id="dvdPrice"></div>
+                                <div id="dvdReleaseDate"></div>   
+                                <div id="other"></div>
+                            </td>
+                        </tr> 
+                    </table>
+                </div>
+            </div>
+        </div>   
+    </body>
+</html>

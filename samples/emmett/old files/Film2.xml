@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE film SYSTEM "film.dtd">
+<film boxSet = "No" genre="&RC;"  id="DVD2" Year = "2006" time = >
+    <title>The Holiday</title>
+    <DVDCoverDetails width="10" height="10" DVDCoverDesign=".jpg"/>
+    <director>
+        <firstname></firstname>
+        <surname></surname>
+    </director>
+    <actress>
+        <firstname>Kate</firstname>
+        <surname>Winslet</surname>
+    </actress>
+    <character>Iris</character>
+    <actress>
+        <firstname>Cameron</firstname>
+        <surname>Diaz</surname>
+    </actress>
+    <character>Amanda</character>
+    <actor>
+        <firstname>Jude</firstname>
+        <surname>Law</surname>
+    </actor>
+    <character></character>
+    <actor>
+        <firstname>Jack</firstname>
+        <surname>Black</surname>
+    </actor>
+    <character></character>
+    <award></award>
+    <award> </award>
+</film>
+    

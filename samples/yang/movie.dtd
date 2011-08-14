@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT dvd (title,picture,director+,actors+,production,producers,plot,copyright,released)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT picture (#PCDATA)>
+<!ELEMENT director (firstname?,surname)>
+<!ELEMENT actors (firstname?,surname)>
+<!ELEMENT production (#PCDATA)>
+<!ELEMENT producers (firstname?,surname)>
+<!ELEMENT plot (#PCDATA)>
+<!ELEMENT copyright (#PCDATA)>
+<!ELEMENT released (#PCDATA)>
+
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+
+<!ATTLIST dvd 
+    genre CDATA #IMPLIED
+    runtime CDATA #REQUIRED  
+    viewing (PG | 12 | 15 | 18) #REQUIRED
+    language CDATA #IMPLIED
+    imdb CDATA #IMPLIED
+>
+<!ATTLIST director 
+    nationality CDATA #IMPLIED
+    sex CDATA "male|female"  
+>
+<!ATTLIST actors 
+    nationality CDATA #IMPLIED
+    sex CDATA "male|female"  
+>
+

@@ -1,0 +1,120 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dvd SYSTEM "dvd.dtd">
+<?xml-stylesheet href="reset.css" type="text/css"?>
+<?xml-stylesheet href="book.css" type="text/css"?>
+<dvd genre="thriller" runtime="153" viewing="18">    
+    <title>The Terminal</title>    
+    <presenter>
+        <companyname>Dreamworks Pictures</companyname>
+    </presenter>
+    <production>
+        <companyname>Parkes / McDaonald Films</companyname>
+    </production>
+    <released>
+        <date>
+            <year>2004</year>
+        </date>
+    </released>
+    <producers>
+        <person>
+            <firstname>Steven</firstname>
+            <surname>Spielberg</surname>
+        </person>
+    </producers>
+    <coProducers>
+        <person>
+            <firstname>Sergio</firstname>
+            <surname>Mimica-Gezzen</surname>
+        </person>
+    </coProducers>
+    <musicProducers>
+        <person>
+            <firstname>John</firstname>
+            <surname>Williams</surname>
+        </person>
+    </musicProducers>
+    <costumeDesigners>
+        <person>
+            <firstname>Mary</firstname>
+            <surname>Zophrite</surname>
+        </person>
+    </costumeDesigners>
+    <directors>
+        <person>
+            <firstname>Steven</firstname>
+            <surname>Spielberg</surname>
+        </person>
+    </directors>
+    <actors>
+        <person>
+            <firstname>Tom</firstname>
+            <surname>Hanks</surname>
+        </person>
+        <person>
+            <firstname>Catherine</firstname>
+            <surname>Zeta-Jones</surname>
+        </person>
+        <person>
+            <firstname>Stanley</firstname>
+            <surname>Tucci</surname>
+        </person>
+        <person>
+            <firstname>Chi</firstname>
+            <surname>McBride</surname>
+        </person>
+        <person>
+            <firstname>Diego</firstname>
+            <surname>Luna</surname>
+        </person>       
+    </actors>
+    <plot>
+        Viktor Navorski, a man from an Eastern European country arrives in New York. 
+        However after he left his country war broke out. Suddenly Navorski is a man without a country - 
+        or one that the U.S. cannot recognize, thus he is denied entrance to the U.S. However, 
+        he also can't be deported so he is told by the Security Manager that he has to remain 
+        in the airport until his status can be fixed. And also Navorski doesn't speak English very well, 
+        so he cannot talk to or understand anyone. But he somehow adapts and sets up residence 
+        in the airport, which makes the man who placed him there unhappy, as it seems he is in line 
+        for a promotion but Navroski's presence might complicate that. So he tries to get Navorski to 
+        leave but Navorski remains where he is. Navorski makes friends with some of the people who work 
+        in the airport and is attracted to a flight attendant he runs into whenever she comes in. 
+        Written by r.g.clark@gte.net
+        
+        An Eastern European visitor becomes a resident of a New York airport terminal when a war 
+        breaks out and erases his country from the map, voiding his passport. He makes friends 
+        with the airport staff and falls in love with a flight attendant. Written by BGW Claw
+        
+        Former Krakozhian Viktor Navorski is almost in New York City for the first time in his life. 
+        "Former" and "almost"?: while Viktor is flying to JFK Airport, Krakozhia has been overthrown 
+        as a country with no nation recognizing the new regime, therefore all government papers 
+        such as passports, visas and currency issued by Krakozhia are also not recognized 
+        internationally. With only these papers in hand when Viktor arrives at JFK, he is not allowed 
+        entry into the United States. All air service in and out of Krakozhia has been suspended 
+        and thus Viktor cannot even be sent back until Krakozhia's situation is resolved. 
+        Frank Dixon, Director of Customs and Border Protection at JFK, allows Viktor to stay 
+        in the international lounge until the problem is resolved. Dixon gives Viktor enough meal 
+        vouchers to last for a day or two, with Dixon expecting Viktor to secretly escape the lounge 
+        into the outside world. Viktor, however, wants to be as proper as possible and decides to 
+        stay in the lounge. Viktor poses a problem for Dixon, as Viktor may be the black mark in 
+        his promotion to head of the department. Their relationship becomes an antagonistic one, 
+        where Dixon will now do whatever he can to prevent Viktor from ever entering the country 
+        even if he ever did learn the heartbreaking reason for Viktor's visit. 
+        As Viktor stays in the lounge, he only has limited resources on which to live and a 
+        limited understanding of the English language. Viktor's encounters with lounge employees 
+        is also initially antagonistic, but they all learn to live in harmony and friendship as 
+        Viktor's stay increases. The one person Viktor would like to meet and know is United Airlines 
+        flight attendant Amelia Warren, who is in transit through JFK every few weeks and who seems to 
+        be dealing with her own personal demons.
+    </plot>    
+    <copyright>
+        <date>
+            <year>2004</year>
+        </date>        
+        <companyname>Dreamworks LLC</companyname>        
+    </copyright>
+    <other>
+        <imdblink>http://www.imdb.com/title/tt0362227/</imdblink>
+        <picture>dvd3.png</picture>
+        <price></price>
+    </other>
+</dvd>

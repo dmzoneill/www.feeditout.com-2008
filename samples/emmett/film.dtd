@@ -1,0 +1,26 @@
+<!ELEMENT film (title, DVDCoverDetails, description, director, ((actor|actress),character?)+,award*)>
+<!ENTITY R "Romantic"> 
+<!ENTITY RC "Romantic comedy"> 
+<!ENTITY RD "Romantic drama">
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT DVDCoverDetails EMPTY>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT director (firstname,surname)>
+<!ELEMENT actor (firstname,surname)>
+<!ELEMENT actress (firstname,surname)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT character (#PCDATA)>
+<!ELEMENT award (#PCDATA)>
+<!ATTLIST title 
+boxSet  ( Yes | No ) "No"
+genre CDATA #IMPLIED
+id ID #REQUIRED
+year CDATA #REQUIRED
+time CDATA #IMPLIED
+>
+<!ATTLIST DVDCoverDetails 
+width CDATA #IMPLIED
+height CDATA #IMPLIED
+DVDCoverDesign CDATA #IMPLIED
+>

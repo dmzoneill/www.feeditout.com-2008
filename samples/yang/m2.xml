@@ -1,0 +1,34 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dvd SYSTEM "movie.dtd">
+<dvd runtime="132" viewing="18" genre="horor" imdb="http://www.imdb.com/title/tt1099212/" language="en">
+    <title>Twilight</title>
+    <picture>twilight.jpg</picture>
+    <director>
+        <firstname>Catherine</firstname>
+        <surname>Hardwicke</surname>
+    </director>
+    <actors>
+        <firstname>Kristen</firstname>
+        <surname>Stewart</surname>
+    </actors>
+    <actors>
+        <firstname>Sarah</firstname>
+        <surname>Clarke</surname>
+    </actors>
+    <actors>
+        <firstname>Robert</firstname>
+        <surname>Pattinson</surname>
+    </actors>
+    <actors>
+        <firstname>Matt</firstname>
+        <surname>Bushell</surname>
+    </actors>
+    <production>Pixar</production>
+    <producers>
+        <firstname>Kellan </firstname>
+        <surname>Lutz</surname>
+    </producers>
+    <plot>A teenage girl risks everything when she falls in love with a vampire.</plot>
+    <copyright>Stephenie Meyer</copyright>
+    <released>2008</released>
+</dvd>

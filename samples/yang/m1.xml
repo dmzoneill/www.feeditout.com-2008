@@ -1,0 +1,30 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dvd SYSTEM "movie.dtd">
+<dvd runtime="99" viewing="12" language="jp" genre="drama" imdb="http://www.imdb.com/title/tt1190080/">
+    <title>2012</title>
+    <picture>2012.jpg</picture>
+    <director>
+        <firstname>Roland </firstname>
+        <surname>Emmerich</surname>
+    </director>
+    <actors>
+        <firstname>John</firstname>
+        <surname>Cusack</surname>
+    </actors>
+    <actors>
+        <firstname>Amanda</firstname>
+        <surname>Peet</surname>
+    </actors>
+    <actors>
+        <firstname>Chiwetel</firstname>
+        <surname>Ejiofor</surname>
+    </actors>
+    <production>Dreame Works</production>
+    <producers>
+        <firstname>Johann</firstname>
+        <surname>Urb</surname>
+    </producers>
+    <plot>An epic adventure about a global cataclysm that brings an end to the world and tells of the heroic struggle of the survivors.</plot>
+    <copyright>Harald Klose</copyright>
+    <released>2009</released>
+</dvd>

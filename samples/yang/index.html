@@ -1,0 +1,31 @@
+<html>
+    <head>        
+        <title> movies catelog </title>
+        <link rel="StyleSheet" href="main.css" type="text/css" />
+        <script type="text/javascript"  src="catelog.js"></script>
+    </head>
+    <body onload="createMenu();">
+        <table>
+            <tr>
+                <td><h4 class='menuHeading'>Select Movie</h4></td>
+                <td>
+                    <form name="mainForm" action=""> 
+                        <fieldset>
+                            <select id="DVDMenu" name="DVDMenu" onchange="showMovie();">
+                            <option value="0">Select a dvd</option>
+                            </select>
+                        </fieldset>                        
+                    </form>
+                </td>
+            </tr> 
+            <tr>
+                <td><div id="dvdImage"></div></td>
+                <td><div id="maincontent"></div></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><div id="extracontent"></div></td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,76 @@
+body
+{
+    font-family:arial, helvetica, sans-serif;
+    font-size:10pt;
+    color:#222222;
+}
+
+a  
+{
+    color:navy;
+    text-decoration:none;
+    font-size:10pt;
+}
+
+p
+{
+    color:#444444;
+    margin: -10px 10px 10px 10px;
+    font-size:10pt;
+}
+
+h2
+{
+    font-size:18pt;    
+    margin: 5px 10px 15px -10px;
+    color:maroon;
+}
+
+h4
+{
+    color:gray;
+    font-size:14pt;
+    margin: 5px 10px 15px -10px;
+}
+
+h4.menuHeading
+{
+    color:gray;
+    font-size:14pt;
+    margin: 10px 10px 10px 60px;
+}
+
+table
+{
+    vertical-align:top;
+}
+tr
+{
+    vertical-align:top;
+}
+
+td
+{
+     vertical-align:top;
+     margin: -10px 10px 10px 10px;
+     padding:  10px 10px 10px 10px;
+     font-size:10pt;
+}
+
+
+div
+{
+    margin: -10px 10px 10px 10px;
+    padding:  10px 10px 10px 10px;
+    font-size:10pt;
+}
+
+fieldset
+{
+    border: #ffffff 0px;
+}
+
+select
+{
+    margin: 5px 10px -10px 10px;
+}
