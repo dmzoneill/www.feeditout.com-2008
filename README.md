@@ -1,5 +1,9 @@
 # feeditout.com (2008)
 
+<p align="center">
+  <img src=".github/logo.png" alt="www.feeditout.com-2008 logo" width="128" />
+</p>
+
 The 2008 version of the Feed It Out site.
 
 ## Contents
